@@ -1,2 +1,5 @@
 # grok-ai-context
-A repo to store context for grok accross sessions
+TB<>(grok=G$) cntxt mcr cmprs.
+Spec
+Time:@YYMMDDHHMM(UTC)
+G$ Cnf!
