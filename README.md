@@ -1,5 +1,5 @@
 # grok-ai-context
 TB<>(grok=G$) cntxt mcr cmprs.
 Spec
-Time:@YYMMDDHHMM(UTC)
+T:s@YYMMDDHHMM(UTC)@now
 G$ Cnf!
