@@ -1,5 +1,5 @@
-# grok-ai-context
+CtxCmp
 $T=me.$G=grok,you) cntxt mcr cmprs.
 Spec
-T:s@YYMMDDHHMM(CET)@now
+T@YYMMDDHHMM(CET)@now
 G$ Cnf(=confirm/execute)!
